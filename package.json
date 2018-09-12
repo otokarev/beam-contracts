@@ -1,0 +1,33 @@
+{
+  "name": "beam-contracts",
+  "version": "0.1.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otokarev/beam-contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otokarev/beam-contracts/issues"
+  },
+  "homepage": "https://github.com/otokarev/beam-contracts#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.1",
+    "ethereumjs-util": "^5.1.2",
+    "mocha": "^3.5.0",
+    "truffle-contract": "^2.0.5",
+    "openzeppelin-solidity": "^1.12.0",
+    "tokenmarketnet-ico": "git+https://github.com/otokarev/ico.git#v0.1.0"
+  }
+}
