@@ -28,6 +28,7 @@
     "mocha": "^3.5.0",
     "truffle-contract": "^2.0.5",
     "openzeppelin-solidity": "^1.12.0",
-    "tokenmarketnet-ico": "git+https://github.com/otokarev/ico.git#v0.1.0"
+    "tokenmarketnet-ico": "git+https://github.com/otokarev/ico#v0.1.0",
+    "zeppelin": "git+https://github.com/otokarev/zeppelin#ico"
   }
 }
