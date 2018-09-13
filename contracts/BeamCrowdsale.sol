@@ -6,9 +6,9 @@
 
 pragma solidity ^0.4.8;
 
-iport "tokenmarketnet-ico/contracts/Crowdsale.sol";
+import "tokenmarketnet-ico/contracts/Crowdsale.sol";
 import "tokenmarketnet-ico/contracts/MintableToken.sol";
-import "FlatFiatPricing.sol";
+import "./FlatFiatPricing.sol";
 import "tokenmarketnet-ico/contracts/KYCPayloadDeserializer.sol";
 
 /**
